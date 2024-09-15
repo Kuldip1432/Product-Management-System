@@ -1,0 +1,23 @@
+2023-06-28 12:11:15,430 [9] DEBUG ProductManagement.Controllers.HomeController [(null)] - Info Page Visited by Anonymous User
+2023-06-28 12:11:50,833 [9] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by Anonymous User
+2023-06-28 12:12:47,539 [14] INFO  ProductManagement.Controllers.AccountController [(null)] - User Registered with Emailkuldip.ladola@gmail.com
+2023-06-28 12:12:47,634 [11] DEBUG ProductManagement.Controllers.HomeController [(null)] - Info Page Visited by user [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:12:50,581 [11] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:12:57,202 [12] DEBUG ProductManagement.Controllers.HomeController [(null)] - Info Page Visited by Anonymous User
+2023-06-28 12:13:29,553 [13] INFO  ProductManagement.Controllers.AccountController [(null)] - User Login with Emailkuldip.ladola@gmail.com
+2023-06-28 12:13:29,574 [10] DEBUG ProductManagement.Controllers.HomeController [(null)] - Info Page Visited by user [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:13:32,849 [10] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:13:43,990 [10] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:13:47,303 [11] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:13:55,699 [10] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:00,051 [12] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:03,256 [10] INFO  ProductManagement.Controllers.HomeController [(null)] - Product Details(31) Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:09,298 [12] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:21,134 [12] INFO  ProductManagement.Controllers.HomeController [(null)] - Product Edited with Id(29) by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:21,188 [14] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:39,857 [18] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:47,343 [12] INFO  ProductManagement.Controllers.HomeController [(null)] - Category Edited with Id(7) by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:14:57,994 [10] INFO  ProductManagement.Controllers.HomeController [(null)] - Category Created with Name(phone) by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:15:15,914 [14] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:15:16,867 [12] DEBUG ProductManagement.Controllers.HomeController [(null)] - Info Page Visited by user [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
+2023-06-28 12:15:18,170 [10] INFO  ProductManagement.Controllers.HomeController [(null)] - Product List Page Visited by User [ 0db9ebf3-3b0a-4110-8edb-47e9f4839914 ]
